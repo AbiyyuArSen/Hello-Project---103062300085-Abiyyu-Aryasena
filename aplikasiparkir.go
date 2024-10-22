@@ -1,3 +1,7 @@
+// Nama : Abiyyu Aryasena
+// NIM  : 103062300085
+// Kelas: S1IT-KJ-23-002
+
 package main // Mendeklarasikan paket utama
 
 import ( // Mengimpor paket yang dibutuhkan
